@@ -1,5 +1,5 @@
 package edu.info.ip.util;
-
+// text
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.image.BufferedImage;
